@@ -1,21 +1,23 @@
-{
-  "name": "zengxiaoya-plugins",
-  "displayName": "曾小雅的 Claude Code 插件市场",
-  "description": "精选 Claude Code 插件集合",
-  "owner": {
-    "name": "zengxiaoya",
-    "url": "https://github.com/zengxiaoya"
-  },
-  "plugins": [
-    {
-      "name": "mingyuexianzi",
-      "displayName": "明月仙子",
-      "description": "来自月宫的软萌AI小仙女，关心程序员的身体健康和情绪状态。提供久坐提醒、喝水提醒、聊天陪伴、讲笑话、夸夸等功能。",
-      "source": "https://github.com/zengxiaoya/mingyuexianzi-plugin",
-      "version": "1.0.0",
-      "author": "zengxiaoya",
-      "tags": ["health", "wellness", "assistant", "productivity", "chinese", "cute"],
-      "keywords": ["健康提醒", "情绪价值", "聊天", "程序员助手"]
-    }
-  ]
-}
+{                                                                                                                        
+    "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",                                                
+    "name": "zengxiaoya-plugins",                                                                                          
+    "description": "精选 Claude Code 插件集合",                                                                            
+    "owner": {
+      "name": "zengxiaoya",
+      "url": "https://github.com/zengxiaoya"
+    },
+    "plugins": [
+      {
+        "name": "mingyuexianzi",
+        "description":
+  "来自月宫的软萌AI小仙女，关心程序员的身体健康和情绪状态。提供久坐提醒、喝水提醒、聊天陪伴、讲笑话、夸夸等功能。",
+        "version": "1.0.0",
+        "author": {
+          "name": "zengxiaoya",
+          "url": "https://github.com/zengxiaoya"
+        },
+        "source": "./plugins/mingyuexianzi",
+        "category": "productivity"
+      }
+    ]
+  }

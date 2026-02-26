@@ -1,4 +1,4 @@
-# 🌙 曾小雅的 Claude Code 插件市场
+# 🌙 明月仙子 的 Claude Code 插件市场
 
 精选 Claude Code 插件集合，为程序员提供贴心的开发体验。
 

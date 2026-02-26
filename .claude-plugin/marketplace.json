@@ -16,7 +16,7 @@
           "name": "zengxiaoya",
           "url": "https://github.com/zengxiaoya"
         },
-        "source": "https://github.com/zengxiaoya/mingyuexianzi-plugin.git",
+        "source": "./plugins/mingyuexianzi",
         "category": "productivity"
       }
     ]

@@ -24,7 +24,7 @@
     {
       "name": "lanhu-to-code",
       "description": "从蓝湖设计稿提取需求并生成前端代码。支持解析蓝湖页面，自动提取设计信息，生成 HTML/CSS/React/Vue 代码。",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "zengxiaoya",
         "url": "https://github.com/zengxiaoya"
